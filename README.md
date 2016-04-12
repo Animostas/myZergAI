@@ -20,3 +20,5 @@ Resources:
 http://wiki.teamliquid.net/starcraft/4/5_Pool
 
 http://wiki.teamliquid.net/starcraft/9_Pool_(vs._Zerg)
+
+https://bwapi.github.io/index.html
